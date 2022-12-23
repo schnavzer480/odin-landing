@@ -96,3 +96,7 @@ body {
     border-radius: 10%;
     border: 2px solid whitesmoke;
 }
+
+.test {
+    flex: 1;
+}
