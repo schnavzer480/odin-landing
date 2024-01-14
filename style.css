@@ -40,6 +40,10 @@ li:not(:last-child){
     color: #F9FAF8;
 }
 
+.place{
+    object-fit: cover;
+}
+
 .info-left{
     width: 50%;
     display: flex;
